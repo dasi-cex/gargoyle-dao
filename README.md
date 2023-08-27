@@ -8,5 +8,8 @@ Try running some of the following tasks:
 npx hardhat node
 npx hardhat test
 npx hardhat run scripts/deploy.ts --localhost
+npx hardhat run scripts/propose.ts --localhost
+npx hardhat run scripts/vote.ts --localhost
+npx hardhat run scripts/execute.ts --localhost
 ```
 # gargoyle-dao
